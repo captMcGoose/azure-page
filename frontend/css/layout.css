@@ -267,8 +267,8 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   font: 16px/24px 'opensans-bold', serif;
+   color: #4b5157;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -927,7 +927,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #d8d8d8;
    font-size: 14px;
    text-align: center;
    position: relative;
