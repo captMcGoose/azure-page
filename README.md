@@ -1,5 +1,5 @@
 # AZURE RESUME PAGE
-# TRY IT [HERE](https://tomasaguirre.z6.web.core.windows.net/)!
+# TRY IT [HERE](https://tomasaguirre.azureedge.net/)!
 
 # How is this made?
 
